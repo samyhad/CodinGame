@@ -1,0 +1,2 @@
+# codingGame
+Solving codingame challenges
