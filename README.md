@@ -1,2 +1,2 @@
-# codingGame
+# codinGame
 Solving codingame challenges
